@@ -1,2 +1,5 @@
-# web-340
-This is my repository for Web-340
+# WEB 340 Node.js
+
+## Contributors
+- Richard Krasso
+- Joseph Sarno
