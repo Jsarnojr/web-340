@@ -1,0 +1,16 @@
+{
+  "name": "taco-stand",
+  "version": "1.0.0",
+  "description": "Taco Stand CLI and event emitter",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "node taco-stand-spec.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "events": "^3.3.0"
+  }
+}
